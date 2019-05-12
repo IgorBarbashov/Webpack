@@ -1,0 +1,4 @@
+.wrapper {
+    display: flex;
+    background: url('/assets/img/avatar_500x500.jpg');
+}
